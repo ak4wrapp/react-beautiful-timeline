@@ -1,5 +1,8 @@
 # React Beautiful Timeline
 
+# Step by Step Guide here
+https://medium.com/@mevlutcantuna/building-a-modern-react-component-library-a-guide-with-vite-typescript-and-tailwind-css-862558516b8d
+
 React Beautiful Timeline is a resposive timeline with animations that allows users to switch between vertical and horizontal orientations.
 
 [Demo](https://stackblitz.com/edit/react-beautiful-timeline?file=src%2FApp.tsx)
