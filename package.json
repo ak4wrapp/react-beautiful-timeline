@@ -32,8 +32,8 @@
     "./lib/**/*.{ts,tsx,js,jsx,css}": "prettier --write"
   },
   "peerDependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
